@@ -1,0 +1,74 @@
+---
+date: "2024-01-25"
+sections:
+- block: hero
+  content:
+    cta:
+      label: '**Get Started**'
+      url: https://hugoblox.com/templates/
+    cta_alt:
+      label: Ask a question
+      url: https://discord.gg/z8wNYzb
+    cta_note:
+      label: '<div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder"
+        data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star
+        Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button"
+        href="https://github.com/HugoBlox/theme-academic-cv" data-icon="octicon-star"
+        data-size="large" data-show-count="true" aria-label="Star">Star the Academic
+        template</a></div>'
+    image:
+      filename: NUS.png
+    text: |-
+
+
+
+  demo: true
+  design:
+    background:
+      gradient_end: '#1976d2'
+      gradient_start: '#004ba0'
+      text_color_light: true
+- block: about.biography
+  content:
+    title: Biography
+    username: admin
+  id: about
+    
+
+  
+- block: collection
+  content:
+    filters:
+      folders:
+      - publication
+    title: Publications
+    id: publications
+  design:
+    columns: "2"
+    view: citation
+  id: publications
+    
+
+- block: contact
+  content:
+    contact_links:
+    
+    - icon: twitter
+      icon_pack: fab
+      link: https://twitter.com/IvanPHLau
+      name: Follow me
+      
+    - icon: google-scholar
+      icon_pack: ai
+      link: https://scholar.google.com/citations?user=jDu9ZzYAAAAJ&hl=en
+      name: My complete publications
+   
+    email: ivanphlau@gmail.com
+    title: Contact
+    
+  design:
+    columns: "2"
+  id: contact
+title: ""
+type: landing
+---
