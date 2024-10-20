@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/publication/</link>
+      <atom:link href="http://localhost:4321/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <title>Publications</title>
+      <link>http://localhost:4321/publication/</link>
+    </image>
+    
+    <item>
+      <title>Decentralized and Equitable Optimal Transport</title>
+      <link>http://localhost:4321/publication/dot/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/dot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Max-Quantile Grouped Infinite-Arm Bandits</title>
+      <link>http://localhost:4321/publication/max_quantile/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/max_quantile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based and Graph-Based Priors for Group Testing</title>
+      <link>http://localhost:4321/publication/model_based_gt/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/model_based_gt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of binary matrices for near-optimal compressed sensing</title>
+      <link>http://localhost:4321/publication/near_optimal_cs/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/near_optimal_cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group Testing Large Populations for SARS-CoV-2</title>
+      <link>http://localhost:4321/publication/covid_gt/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/covid_gt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Associative Left Brace is a Ring</title>
+      <link>http://localhost:4321/publication/braces/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/braces/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
