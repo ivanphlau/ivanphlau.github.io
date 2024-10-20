@@ -1,3 +1,0 @@
-waist = 76.2
-height = 170
-bri = 364.2 - 365.5 * (sqrt(1 - (waist/(2*pi))^2 / (0.5 * height) ^ 2))
