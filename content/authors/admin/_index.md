@@ -62,7 +62,7 @@ education:
 ---
 
 ## About Me
-I am a first year Ph.D. student in the 
+I am a second year Ph.D. student in the 
 [Department of Computer Science](https://www.comp.nus.edu.sg/)
 at the [National University of Singapore](https://www.nus.edu.sg/), advised by 
 [Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/). 
