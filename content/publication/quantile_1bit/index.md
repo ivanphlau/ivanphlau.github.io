@@ -14,7 +14,7 @@ url_dataset: ""
 url_pdf: "https://arxiv.org/pdf/2502.06678"
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: 1_bit_Quantile_Bandit_Slides.pdf
 url_source: ""
 url_video: ""
 ---
