@@ -12,7 +12,7 @@ title: "Quantile Multi-Armed Bandits with 1-bit Feedback"
 
 url_dataset: ""
 url_pdf: "https://arxiv.org/pdf/2502.06678"
-url_poster: ""
+url_poster: 1_bit_Quantile_Bandit_Poster.pdf
 url_project: ""
 url_slides: 1_bit_Quantile_Bandit_Slides.pdf
 url_source: ""
