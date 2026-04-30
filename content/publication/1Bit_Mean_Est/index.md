@@ -6,7 +6,7 @@ authors:
 - admin
 - Jonathan Scarlett
 
-date: "2026-05-02T00:00:00Z"
+date: "2026-02-01T00:00:00Z"
 publication: 'International Conference on Artificial Intelligence and Statistics (AISTATS) 2026'
 publication_short: "AISTATS 2026"
 
