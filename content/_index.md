@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Ivan Lau"
-date: 2022-10-24
+title: 
+date: 2026-04-30
 type: landing
 
 design:
