@@ -13,7 +13,7 @@ publication_short: "COLT 2026"
 title: "Open Problem: Is Interaction Necessary for Order-Optimal 1-bit Mean Estimation?"
 
 url_dataset: ""
-url_pdf: ""
+url_pdf: 1_bit_mean_est_open_problem.pdf
 url_poster: 
 url_project: ""
 url_slides: ""
