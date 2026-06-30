@@ -14,9 +14,9 @@ title: "Sequential 1-bit Mean Estimation with Near-Optimal Sample Complexity"
 
 url_dataset: ""
 url_pdf: "https://arxiv.org/pdf/2509.21940"
-url_poster: 
+url_poster: 1Bit_Mean_Est_Poster.pdf
 url_project: ""
-url_slides: 1Bit_Mean_Est_Poster.pdf
+url_slides: ""
 url_source: ""
 url_video: ""
 ---
