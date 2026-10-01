@@ -10,9 +10,9 @@ authors:
 - Kevin Jamieson
 - Jonathan Scarlett
 
-date: "2026-05-01T00:00:00Z"
-publication: 'In Submission'
-publication_short: "In Submission"
+date: "2026-10-01T00:00:00Z"
+publication: 'Conference on Neural Information Processing Systems (NeurIPS) 2026'
+publication_short: "NeurIPS 2026"
 
 title: "Batched Stochastic Linear Bandits with 1-Bit Communication Constraints"
 
